@@ -1,0 +1,10 @@
+$ mkdir exercises
+$ cd exercises/
+$ gedit exercise1.txt
+$ git init
+$ git add exercise1.txt
+$ git status
+$ git commit -m "exercise1.txt"
+$ git remote add origin https://github.com/ZyVa1996/ExercisesDB.git
+$ git push -u origin master
+
